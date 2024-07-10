@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "418721407489",
+    "project_id": "vibestreamapplication",
+    "storage_bucket": "vibestreamapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418721407489:android:0d15803349511ee32e1600",
+        "android_client_info": {
+          "package_name": "com.example.vibestreamapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhJuWSHf6x0jqQN6PLuWNh2fv97fPwkYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
